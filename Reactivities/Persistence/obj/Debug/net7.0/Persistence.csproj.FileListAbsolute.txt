@@ -1,0 +1,15 @@
+C:\Users\benja\OneDrive\Skrivebord\.Net\Reactivities\Persistence\bin\Debug\net7.0\Persistence.deps.json
+C:\Users\benja\OneDrive\Skrivebord\.Net\Reactivities\Persistence\bin\Debug\net7.0\Persistence.dll
+C:\Users\benja\OneDrive\Skrivebord\.Net\Reactivities\Persistence\bin\Debug\net7.0\Persistence.pdb
+C:\Users\benja\OneDrive\Skrivebord\.Net\Reactivities\Persistence\bin\Debug\net7.0\Domain.dll
+C:\Users\benja\OneDrive\Skrivebord\.Net\Reactivities\Persistence\bin\Debug\net7.0\Domain.pdb
+C:\Users\benja\OneDrive\Skrivebord\.Net\Reactivities\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\benja\OneDrive\Skrivebord\.Net\Reactivities\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\OneDrive\Skrivebord\.Net\Reactivities\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\benja\OneDrive\Skrivebord\.Net\Reactivities\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+C:\Users\benja\OneDrive\Skrivebord\.Net\Reactivities\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\benja\OneDrive\Skrivebord\.Net\Reactivities\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+C:\Users\benja\OneDrive\Skrivebord\.Net\Reactivities\Persistence\obj\Debug\net7.0\Persistence.dll
+C:\Users\benja\OneDrive\Skrivebord\.Net\Reactivities\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+C:\Users\benja\OneDrive\Skrivebord\.Net\Reactivities\Persistence\obj\Debug\net7.0\Persistence.pdb
+C:\Users\benja\OneDrive\Skrivebord\.Net\Reactivities\Persistence\obj\Debug\net7.0\ref\Persistence.dll
